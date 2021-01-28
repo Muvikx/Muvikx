@@ -1,6 +1,5 @@
 ## **Random Infos**
 Name : Kilyan<br/>
-Surname : Cotten<br/>
 Age : 17yo<br/>
 
 Current school : Lycée René Gosse<br/>
