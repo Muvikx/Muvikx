@@ -1,3 +1,10 @@
+## **Random Infos**
+Name : Kilyan
+Surname : Cotten
+Age : 17yo
+
+Current school : Lycée René Gosse
+
 ## **Skills**
 
 **Python**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(75%)&nbsp;
@@ -11,4 +18,3 @@
 <br/>
 **Java-Script**&nbsp;(5%)&nbsp;&nbsp;&nbsp;
 ![#3cff00](green-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)
-
