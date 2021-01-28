@@ -9,6 +9,6 @@
 **C**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15%)&nbsp;
 ![#3cff00](green-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)
 <br/>
-**Java-Script**&nbsp;(5%)&nbsp;
+**Java-Script**&nbsp;(5%)&nbsp;&nbsp;
 ![#3cff00](green-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)![#aaaaaa](grey-pix.png)
 
