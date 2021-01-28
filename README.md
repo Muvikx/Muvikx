@@ -22,7 +22,7 @@ Latest school : Collège Emmanuel Maffre Baugé
 
 ## **Social Networks**
 
-![website](website.png) Website : https://muvikx.github.io/<br/>
-![instagram](instagram.png) Instagram : @Muvikx<br/>
-![twitter](twitter.png) Twitter : @Muvikx<br/>
-![mail](mail.png) Mail : muvikx.pro@gmail.com<br/>
+![website](website.png)&nbsp; Website : https://muvikx.github.io/<br/>
+![instagram](instagram.png)&nbsp; Instagram : @Muvikx<br/>
+![twitter](twitter.png)&nbsp; Twitter : @Muvikx<br/>
+![email](email.png)&nbsp; Mail : muvikx.pro@gmail.com<br/>
