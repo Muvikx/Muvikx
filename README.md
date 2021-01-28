@@ -1,16 +1,13 @@
-### Hi there 👋
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:1.5em;">Skills</span>
 
-<!--
-**Muvikx/Muvikx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span style="color:#337cf2; font-size:1.2em;">Python</span>
+&nbsp;
+<span style="color:#000000; font-size:1.2em;">(75%)</span>
+&nbsp;
+![#3cff00](https://via.placeholder.com/15/3cff00/000000?text=+)![#3cff00](https://via.placeholder.com/15/3cff00/000000?text=+)![#3cff00](https://via.placeholder.com/15/3cff00/000000?text=+)![#3cff00](https://via.placeholder.com/15/3cff00/000000?text=+)![#3cff00](https://via.placeholder.com/15/3cff00/000000?text=+)![#3cff00](https://via.placeholder.com/15/3cff00/000000?text=+)![#3cff00](https://via.placeholder.com/15/3cff00/000000?text=+)![#aaaaaa](https://via.placeholder.com/15/aaaaaa/000000?text=+)![#aaaaaa](https://via.placeholder.com/15/aaaaaa/000000?text=+)
+<br/>
+<span style="color:#337cf2; font-size:1.2em;">C++</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="color:#000000; font-size:1.2em;">(75%)</span>
+&nbsp;
+![#3cff00](https://via.placeholder.com/15/3cff00/000000?text=+)![#3cff00](https://via.placeholder.com/15/3cff00/000000?text=+)![#3cff00](https://via.placeholder.com/15/3cff00/000000?text=+)![#3cff00](https://via.placeholder.com/15/3cff00/000000?text=+)![#3cff00](https://via.placeholder.com/15/3cff00/000000?text=+)![#3cff00](https://via.placeholder.com/15/3cff00/000000?text=+)![#3cff00](https://via.placeholder.com/15/3cff00/000000?text=+)![#aaaaaa](https://via.placeholder.com/15/aaaaaa/000000?text=+)![#aaaaaa](https://via.placeholder.com/15/aaaaaa/000000?text=+)
