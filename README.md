@@ -7,7 +7,7 @@ Latest school : Collège Emmanuel Maffre Baugé
 
 ## **Skills**
 
-**Brainfuck**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(90%)&nbsp;
+**Brainfuck**&nbsp;&nbsp;&nbsp;&nbsp;(90%)&nbsp;
 ![#3cff00](green-pix.png)![#3cff00](green-pix.png)![#3cff00](green-pix.png)![#3cff00](green-pix.png)![#3cff00](green-pix.png)![#3cff00](green-pix.png)![#3cff00](green-pix.png)![#3cff00](green-pix.png)![#3cff00](green-pix.png)![#aaaaaa](grey-pix.png)
 <br/>
 **Python**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(75%)&nbsp;
